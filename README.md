@@ -2,7 +2,9 @@
 
 
 # Run 
+```bash
 go run read.go input.csv
+```
 
 # Build From Source
 ```bash
